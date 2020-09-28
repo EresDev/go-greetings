@@ -10,14 +10,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3048367a-2b07-4eb1-87a3-08111ef0d88e" name="Default Changelist" comment="">
+    <list default="true" id="3048367a-2b07-4eb1-87a3-08111ef0d88e" name="Default Changelist" comment="Greeting for multiple people. for loop, slice, blank identifier.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/greetings.go" beforeDir="false" afterPath="$PROJECT_DIR$/greetings.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello/hello.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../../Programs/Go" />
   <component name="Git.Settings">
@@ -32,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -39,7 +47,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.go test example.com/greetings">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="greetings" />
       <working_directory value="$PROJECT_DIR$/hello" />
@@ -50,6 +58,33 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestHelloName in example.com/greetings" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="greetings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="example.com/greetings" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHelloName\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test example.com/greetings" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="greetings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="example.com/greetings" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test example.com/greetings" />
+        <item itemvalue="Go Test.TestHelloName in example.com/greetings" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +102,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Greeting for multiple people. for loop, slice, blank identifier." />
+    <option name="LAST_COMMIT_MESSAGE" value="Greeting for multiple people. for loop, slice, blank identifier." />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -75,6 +114,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601229415898" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1601284813645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1601284813645" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601284857474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601284857474" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601284857474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601284857474" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601284857474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601284857474" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601284857474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601284857474" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601284829842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601284829842" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601284829842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601284829842" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601284829842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601284829842" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601284829842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601284829842" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601277025554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
